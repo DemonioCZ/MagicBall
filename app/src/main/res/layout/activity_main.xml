@@ -18,8 +18,8 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="82dp"
-        android:background="@color/colorButton"
-        android:text="@string/button"
+        android:background="#3f51b5"
+        android:text="@string/tlacitko"
         android:textColor="@android:color/background_light" />
 
     <TextView
